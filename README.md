@@ -1,6 +1,6 @@
 ## Fsoky Community Official GitHub Page
 
-[❤️❤️❤️ YouTube ❤️❤️❤️](https://www.youtube.com/c/Фсоки)
+![[YouTube](https://i.imgur.com/YktWAnl.png)](https://www.youtube.com/c/Фсоки)
 
 [💙💙💙 Telegram 💙💙💙](https://t.me/officialfsokycommchat)
 
