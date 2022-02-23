@@ -1,6 +1,5 @@
 # ꜰsᴏᴋʏ ᴄᴏᴍᴍᴜɴɪᴛʏ
 Пока не придумал, что сюда написать. 
 
-__[Группа Вконтакте](https://vk.com/fsoky)__ - здесь вы можете задать вопрос автору канала. \
-__[YouTube канал](https://youtube.com/u/Фсоки)__ - ютуб канал, на котором автор публикует контент по языку программированию *Python* \
-__Сотрудничество, реклама__ - <cyberuest0x12@gmail.com>
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK)](https://vk.com/fsoky)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube)](https://youtube.com/u/Фсоки)
