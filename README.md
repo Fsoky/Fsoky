@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Общение и тому подобное 🍇 | Стрим](https://www.youtube.com/watch?v=KImecHsoZfA)
 - [Играем в HACK THE BOX  😈 | Стрим](https://www.youtube.com/watch?v=DW6nW3T7ENk)
 - [Играем в HACK THE BOX  😈 | Стрим](https://www.youtube.com/watch?v=xuU63M5D-v0)
 - [Давайте Творить 🍋 | Стрим](https://www.youtube.com/watch?v=tPnjIkvC3ng)
 - [Бот для Telegram &lpar;Aiogram&rpar; | Ретро Кодинг](https://www.youtube.com/watch?v=_jHgAwHRIzE)
-- [SQLite 3 | Как работать с базой данных в Python?](https://www.youtube.com/watch?v=y0YWRqrhTBY)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
