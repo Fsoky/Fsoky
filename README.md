@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [СТРИМ | Будем играть в майнкравт](https://www.youtube.com/watch?v=q3HgThKKTFE)
 - [СТРИМ | Общение, превью и муникравт.](https://www.youtube.com/watch?v=JuWtBJtx8Bs)
 - [СТРИМ | Общение, превью и муникравт.](https://www.youtube.com/watch?v=nGWrOfuYTH4)
 - [Что это? Это Стрим](https://www.youtube.com/watch?v=DbtDl1zNtbU)
 - [Что это? Это Стрим](https://www.youtube.com/watch?v=XZbel9jKJEs)
-- [Общение и тому подобное 🍇 | Стрим](https://www.youtube.com/watch?v=7o6aIRUT5Qk)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
