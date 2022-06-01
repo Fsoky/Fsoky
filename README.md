@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [СТРИМ | А я не знаю.. чем. что. &lpar;лень превью менять&rpar;](https://www.youtube.com/watch?v=PoydGLZECrM)
 - [СТРИМ | А я не знаю.. чем. что. &lpar;лень превью менять&rpar;](https://www.youtube.com/watch?v=9IEOcvjxpuI)
 - [СТРИМ | Будем играть в майнкравт](https://www.youtube.com/watch?v=q3HgThKKTFE)
 - [СТРИМ | Общение, превью и муникравт.](https://www.youtube.com/watch?v=JuWtBJtx8Bs)
 - [СТРИМ | Общение, превью и муникравт.](https://www.youtube.com/watch?v=nGWrOfuYTH4)
-- [Что это? Это Стрим](https://www.youtube.com/watch?v=DbtDl1zNtbU)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
