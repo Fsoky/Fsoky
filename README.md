@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [СТРИМ | Хз-хз](https://www.youtube.com/watch?v=1iEvYwXSrU4)
 - [СТРИМ | Кодим, а что будем? &lpar;возможно будет вебка ахах&rpar;](https://www.youtube.com/watch?v=Pxf3FTPD-Qc)
 - [СТРИМ | Делаем новое превью? :&rpar;](https://www.youtube.com/watch?v=bcL-gv00VCo)
 - [СТРИМ | А я не знаю.. чем. что. &lpar;лень превью менять&rpar;](https://www.youtube.com/watch?v=PoydGLZECrM)
 - [СТРИМ | А я не знаю.. чем. что. &lpar;лень превью менять&rpar;](https://www.youtube.com/watch?v=9IEOcvjxpuI)
-- [СТРИМ | Будем играть в майнкравт](https://www.youtube.com/watch?v=q3HgThKKTFE)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
