@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
-- [СТРИМ | общение ъ](https://www.youtube.com/watch?v=qKJx2rt6cPg)
-- [СТРИМ | Будем делать опять или снова новой превъю наверное да.](https://www.youtube.com/watch?v=knVEAW2vZ9M)
-- [СТРИМ | Хз-хз](https://www.youtube.com/watch?v=1iEvYwXSrU4)
-- [СТРИМ | Кодим, а что будем? &lpar;возможно будет вебка ахах&rpar;](https://www.youtube.com/watch?v=Pxf3FTPD-Qc)
-- [СТРИМ | Делаем новое превью? :&rpar;](https://www.youtube.com/watch?v=bcL-gv00VCo)
+- [Бот для Telegram &lpar;Aiogram&rpar; | Ретро Кодинг](https://www.youtube.com/watch?v=_jHgAwHRIzE)
+- [SQLite 3 | Как работать с базой данных в Python?](https://www.youtube.com/watch?v=y0YWRqrhTBY)
+- [Изучение игры Grey Hack [6] | Это конец..?](https://www.youtube.com/watch?v=jSwyZ35iu2U)
+- [Изучение игры Grey Hack [5] | Мой первый заказ](https://www.youtube.com/watch?v=khPA1Y4ZFb8)
+- [Пробуем играть и кодить | Code Combat](https://www.youtube.com/watch?v=aCoeFE_hJ8k)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
