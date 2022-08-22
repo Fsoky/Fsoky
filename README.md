@@ -2,7 +2,7 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
-- [Общение на часик](https://www.youtube.com/watch?v=0LzOpe4lXSs)
+- [Как программировать вместе?  &lpar;feat. @ITPROSTA &rpar; | PyCharm CodeWithMe](https://www.youtube.com/watch?v=dYI5Eo9aBEs)
 - [Бот для Telegram &lpar;Aiogram&rpar; | Ретро Кодинг](https://www.youtube.com/watch?v=_jHgAwHRIzE)
 - [SQLite 3 | Как работать с базой данных в Python?](https://www.youtube.com/watch?v=y0YWRqrhTBY)
 - [Изучение игры Grey Hack [6] | Это конец..?](https://www.youtube.com/watch?v=jSwyZ35iu2U)
