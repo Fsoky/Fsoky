@@ -2,7 +2,7 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
-- [Стрим. опять. снова.](https://www.youtube.com/watch?v=v74auMB3qYQ)
+- [Boring stream.](https://www.youtube.com/watch?v=Fea59KLeMYw)
 - [Aiogram Python [ 1 ] | Первые шаги](https://www.youtube.com/watch?v=CMR-Sj66c50)
 - [Как программировать вместе?  &lpar;feat. @ITPROSTA &rpar; | PyCharm CodeWithMe](https://www.youtube.com/watch?v=dYI5Eo9aBEs)
 - [Бот для Telegram &lpar;Aiogram&rpar; | Ретро Кодинг](https://www.youtube.com/watch?v=_jHgAwHRIzE)
