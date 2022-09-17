@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Обсуждаем, думаем, общаемся | feat. @ITPROSTA](https://www.youtube.com/watch?v=AkRhHzNHEs0)
 - [Aiogram Python [ 1 ] | Первые шаги](https://www.youtube.com/watch?v=CMR-Sj66c50)
 - [Как программировать вместе?  &lpar;feat. @ITPROSTA &rpar; | PyCharm CodeWithMe](https://www.youtube.com/watch?v=dYI5Eo9aBEs)
 - [Бот для Telegram &lpar;Aiogram&rpar; | Ретро Кодинг](https://www.youtube.com/watch?v=_jHgAwHRIzE)
 - [SQLite 3 | Как работать с базой данных в Python?](https://www.youtube.com/watch?v=y0YWRqrhTBY)
-- [Изучение игры Grey Hack [6] | Это конец..?](https://www.youtube.com/watch?v=jSwyZ35iu2U)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
