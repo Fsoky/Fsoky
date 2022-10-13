@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Welcome to the Game 2 [ 2 ] | Взломал Wi-Fi - жди спецназ.](https://www.youtube.com/watch?v=4XX3MabZlUU)
 - [Welcome to the Game 2 [ 1 ] | Это.. что-то новенькое... &lpar;и не понятное&rpar;](https://www.youtube.com/watch?v=eATRrNkczeg)
 - [Aiogram Python [ 1 ] | Первые шаги](https://www.youtube.com/watch?v=CMR-Sj66c50)
 - [Как программировать вместе?  &lpar;feat. @ITPROSTA &rpar; | PyCharm CodeWithMe](https://www.youtube.com/watch?v=dYI5Eo9aBEs)
 - [Бот для Telegram &lpar;Aiogram&rpar; | Ретро Кодинг](https://www.youtube.com/watch?v=_jHgAwHRIzE)
-- [SQLite 3 | Как работать с базой данных в Python?](https://www.youtube.com/watch?v=y0YWRqrhTBY)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
