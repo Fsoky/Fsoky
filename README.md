@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [СЛИЛСЯ БОТИК &lpar;стрём&rpar;](https://www.youtube.com/watch?v=3QPGUd2ieHU)
 - [БОТ ДЛЯ СЕРВЕРА ДИСКОРД | Python, Disnake](https://www.youtube.com/watch?v=lWD8isNPqEc)
 - [КАК Я БУДУ ВСЁ ЭТО ДЕЛАТЬ??? &lpar;стрим&rpar;](https://www.youtube.com/watch?v=s-EtIMbxAKs)
 - [СТРИМАС](https://www.youtube.com/watch?v=wJe2E00r9aI)
 - [Welcome to the Game 2 [ 2 ] | Взломал Wi-Fi - жди спецназ.](https://www.youtube.com/watch?v=4XX3MabZlUU)
-- [Welcome to the Game 2 [ 1 ] | Это.. что-то новенькое... &lpar;и не понятное&rpar;](https://www.youtube.com/watch?v=eATRrNkczeg)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
