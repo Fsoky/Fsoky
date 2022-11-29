@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [The New Year is coming soon | Новогодняя сцена в Blender 3D &lpar;пробуем сделать и другое&rpar;](https://www.youtube.com/watch?v=vJBrmmev9rs)
 - [Просто стрим захател](https://www.youtube.com/watch?v=3QGnD26Ulg8)
 - [СЛИЛСЯ БОТИК &lpar;стрём&rpar;](https://www.youtube.com/watch?v=3QPGUd2ieHU)
 - [БОТ ДЛЯ СЕРВЕРА ДИСКОРД | Python, Disnake](https://www.youtube.com/watch?v=lWD8isNPqEc)
 - [КАК Я БУДУ ВСЁ ЭТО ДЕЛАТЬ??? &lpar;стрим&rpar;](https://www.youtube.com/watch?v=s-EtIMbxAKs)
-- [СТРИМАС](https://www.youtube.com/watch?v=wJe2E00r9aI)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
