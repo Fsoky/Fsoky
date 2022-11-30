@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [The New Year is coming soon | Обновляем шапки в группе, общение и другое.](https://www.youtube.com/watch?v=yo_k0e_8k70)
+- [Мотивация для вас](https://www.youtube.com/watch?v=T49Ls75SuG8)
 - [The New Year is coming soon | Новогодняя сцена в Blender 3D &lpar;пробуем сделать и другое&rpar;](https://www.youtube.com/watch?v=vJBrmmev9rs)
 - [Просто стрим захател](https://www.youtube.com/watch?v=3QGnD26Ulg8)
 - [СЛИЛСЯ БОТИК &lpar;стрём&rpar;](https://www.youtube.com/watch?v=3QPGUd2ieHU)
-- [БОТ ДЛЯ СЕРВЕРА ДИСКОРД | Python, Disnake](https://www.youtube.com/watch?v=lWD8isNPqEc)
-- [КАК Я БУДУ ВСЁ ЭТО ДЕЛАТЬ??? &lpar;стрим&rpar;](https://www.youtube.com/watch?v=s-EtIMbxAKs)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
