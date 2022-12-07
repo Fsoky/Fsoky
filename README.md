@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Объемное освещение в Blender!](https://www.youtube.com/watch?v=HIzCyCH8rSI)
 - [Логотип Python в Blender за 1 минуту!](https://www.youtube.com/watch?v=l9Uoh80T2d4)
 - [The New Year is coming soon | Играем в Left4Dead 2 с подписчиками и другое](https://www.youtube.com/watch?v=QTZiyZQOf2w)
 - [Пачка денег в Blender за 1 минуту!](https://www.youtube.com/watch?v=Vd9pdqMc6dA)
 - [The New Year is coming soon | Играем в Left4Dead 2 с подписчиками](https://www.youtube.com/watch?v=UaMEB-qDeCA)
-- [The New Year is coming soon | Пытаемся сделать 3D домик в блендер с атмосферой рождества. &lpar;уже нет&rpar;](https://www.youtube.com/watch?v=lT_tiilXLlc)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
