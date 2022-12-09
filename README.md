@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [The New Year is coming soon | Общение и другое](https://www.youtube.com/watch?v=VahOK9rlHGw)
 - [Объемное освещение в Blender!](https://www.youtube.com/watch?v=HIzCyCH8rSI)
 - [Логотип Python в Blender за 1 минуту!](https://www.youtube.com/watch?v=l9Uoh80T2d4)
 - [The New Year is coming soon | Играем в Left4Dead 2 с подписчиками и другое](https://www.youtube.com/watch?v=QTZiyZQOf2w)
 - [Пачка денег в Blender за 1 минуту!](https://www.youtube.com/watch?v=Vd9pdqMc6dA)
-- [The New Year is coming soon | Играем в Left4Dead 2 с подписчиками](https://www.youtube.com/watch?v=UaMEB-qDeCA)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
