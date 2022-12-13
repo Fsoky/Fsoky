@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [The New Year is coming soon | Продолжаем играть в МАЙНКРАФТ с подписчиками](https://www.youtube.com/watch?v=ipC9IS9RV2E)
 - [The New Year is coming soon | Играем в майнкрафт с подписчиками](https://www.youtube.com/watch?v=qnKyQEmIBHM)
 - [The New Year is coming soon | Играем в майнкрафт с подписчиками](https://www.youtube.com/watch?v=oCgoXzXPG98)
 - [The New Year is coming soon | Общение и другое](https://www.youtube.com/watch?v=VahOK9rlHGw)
 - [Объемное освещение в Blender!](https://www.youtube.com/watch?v=HIzCyCH8rSI)
-- [Логотип Python в Blender за 1 минуту!](https://www.youtube.com/watch?v=l9Uoh80T2d4)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
