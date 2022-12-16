@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [WendMine | Играем на сервере майнкрафт с подписчиками](https://www.youtube.com/watch?v=NFFmsu5u5aU)
+- [WendMine | Играем на сервере майнкрафт с подписчиками](https://www.youtube.com/watch?v=2tKeac5m9l8)
 - [The New Year is coming soon | Продолжаем играть в МАЙНКРАФТ с подписчиками](https://www.youtube.com/watch?v=ipC9IS9RV2E)
 - [The New Year is coming soon | Играем в майнкрафт с подписчиками](https://www.youtube.com/watch?v=qnKyQEmIBHM)
 - [The New Year is coming soon | Играем в майнкрафт с подписчиками](https://www.youtube.com/watch?v=oCgoXzXPG98)
-- [The New Year is coming soon | Общение и другое](https://www.youtube.com/watch?v=VahOK9rlHGw)
-- [Объемное освещение в Blender!](https://www.youtube.com/watch?v=HIzCyCH8rSI)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
