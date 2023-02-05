@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Как работать с SQLite3 Python? #fsoky #sqlite #sqlite3](https://www.youtube.com/watch?v=N8pxrXrsLtQ)
 - [Робот с ИИ для медицины // Виктор Кахно](https://www.youtube.com/watch?v=sATyQpyMcf4)
 - [Декораторы в Python 🐍](https://www.youtube.com/watch?v=1Tl-bwujLTA)
 - [Типичный новичок в программировании 🤓](https://www.youtube.com/watch?v=aQiJWnXRnYM)
 - [Кодеры в огне - След в битах](https://www.youtube.com/watch?v=ZVIOdFKjrFs)
-- [неТИПИЧНЫЙ новичок в PYHTON 🤓](https://www.youtube.com/watch?v=KENYz6OTwhM)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
