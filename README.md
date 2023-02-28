@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [МЕГА СТРИМ](https://www.youtube.com/watch?v=p1yyWPz8KU8)
 - [Парсим ваш ШКОЛЬНЫЙ Дневник и выводим оценки в ТЕЛЕГРАМ.](https://www.youtube.com/watch?v=Bwv8o8FhVhA)
 - [Думаем как написать бота для ДИСКОРДА](https://www.youtube.com/watch?v=swdckBtLNak)
 - [Стрим 2023](https://www.youtube.com/watch?v=r_aFvtz-QYA)
 - [Как работать с SQLite3 Python? #fsoky #sqlite #sqlite3](https://www.youtube.com/watch?v=N8pxrXrsLtQ)
-- [Робот с ИИ для медицины // Виктор Кахно](https://www.youtube.com/watch?v=sATyQpyMcf4)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
