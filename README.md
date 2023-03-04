@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [С наступающим праздником!](https://www.youtube.com/watch?v=v_Ey7eO9Ei0)
+- [Самые ЛУЧШИЕ модули for Python #python #fsoky #фсоки](https://www.youtube.com/watch?v=uHcGUR9wSvk)
 - [МЕГА СТРИМ](https://www.youtube.com/watch?v=p1yyWPz8KU8)
 - [Парсим ваш ШКОЛЬНЫЙ Дневник и выводим оценки в ТЕЛЕГРАМ.](https://www.youtube.com/watch?v=Bwv8o8FhVhA)
 - [Думаем как написать бота для ДИСКОРДА](https://www.youtube.com/watch?v=swdckBtLNak)
-- [Стрим 2023](https://www.youtube.com/watch?v=r_aFvtz-QYA)
-- [Как работать с SQLite3 Python? #fsoky #sqlite #sqlite3](https://www.youtube.com/watch?v=N8pxrXrsLtQ)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
