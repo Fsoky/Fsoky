@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [ЧоБудетДальше / СТРИМ](https://www.youtube.com/watch?v=VCvr82nJzRc)
 - [Стримим общение](https://www.youtube.com/watch?v=xLtvHvn6pCQ)
 - [Отмечаем ДЕНЬ РОЖДЕНИЯ КУКЛЫ БАРБИ](https://www.youtube.com/watch?v=cmsgUGQiCss)
 - [С наступающим праздником!](https://www.youtube.com/watch?v=v_Ey7eO9Ei0)
 - [Самые ЛУЧШИЕ модули for Python #python #fsoky #фсоки](https://www.youtube.com/watch?v=uHcGUR9wSvk)
-- [МЕГА СТРИМ](https://www.youtube.com/watch?v=p1yyWPz8KU8)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
