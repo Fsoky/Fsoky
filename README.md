@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Залетим в GameDev? #gamedev](https://www.youtube.com/watch?v=ylFB8SW5uSI)
 - [Как стать ХАЦКЕРОМ? // Hacker Simulator: Free Trial](https://www.youtube.com/watch?v=M9NjiUU6aOU)
 - [ЧоБудетДальше / СТРИМ](https://www.youtube.com/watch?v=VCvr82nJzRc)
 - [Стримим общение](https://www.youtube.com/watch?v=xLtvHvn6pCQ)
 - [Отмечаем ДЕНЬ РОЖДЕНИЯ КУКЛЫ БАРБИ](https://www.youtube.com/watch?v=cmsgUGQiCss)
-- [С наступающим праздником!](https://www.youtube.com/watch?v=v_Ey7eO9Ei0)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
