@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Метавселенные: будущее технологий или временный тренд?](https://www.youtube.com/watch?v=glX_i4k_9c4)
 - [Трек про программиста за 2 часа.](https://www.youtube.com/watch?v=H7sPLc2_QNw)
 - [Хацкерим в симуляторе // Hacker simulator: Free trial](https://www.youtube.com/watch?v=eESwbSSWVkw)
 - [Залетим в GameDev? #gamedev](https://www.youtube.com/watch?v=ylFB8SW5uSI)
 - [Как стать ХАЦКЕРОМ? // Hacker Simulator: Free Trial](https://www.youtube.com/watch?v=M9NjiUU6aOU)
-- [ЧоБудетДальше / СТРИМ](https://www.youtube.com/watch?v=VCvr82nJzRc)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
