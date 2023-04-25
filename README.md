@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Этот ролик создал Искусственный Интеллект! #shorts](https://www.youtube.com/watch?v=h0os239mCoM)
 - [Язык программирования, который сложно забыть](https://www.youtube.com/watch?v=99LAQ5arlec)
 - [Метавселенные: будущее технологий или временный тренд?](https://www.youtube.com/watch?v=glX_i4k_9c4)
 - [Трек про программиста за 2 часа.](https://www.youtube.com/watch?v=H7sPLc2_QNw)
 - [Хацкерим в симуляторе // Hacker simulator: Free trial](https://www.youtube.com/watch?v=eESwbSSWVkw)
-- [Залетим в GameDev? #gamedev](https://www.youtube.com/watch?v=ylFB8SW5uSI)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
