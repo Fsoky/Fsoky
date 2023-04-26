@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Python to exe #shorts](https://www.youtube.com/watch?v=v67dYdwx2ps)
+- [Время создавать КОНТЕНТ, да?.](https://www.youtube.com/watch?v=Jmm50Q8_m4k)
 - [Этот ролик создал Искусственный Интеллект! #shorts](https://www.youtube.com/watch?v=h0os239mCoM)
 - [Язык программирования, который сложно забыть](https://www.youtube.com/watch?v=99LAQ5arlec)
 - [Метавселенные: будущее технологий или временный тренд?](https://www.youtube.com/watch?v=glX_i4k_9c4)
-- [Трек про программиста за 2 часа.](https://www.youtube.com/watch?v=H7sPLc2_QNw)
-- [Хацкерим в симуляторе // Hacker simulator: Free trial](https://www.youtube.com/watch?v=eESwbSSWVkw)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
