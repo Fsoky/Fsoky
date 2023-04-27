@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Графический интерфейс на PyQt5 [ 1 ] | Создание окна](https://www.youtube.com/watch?v=1tg1F2_ShLU)
 - [Python to exe #shorts](https://www.youtube.com/watch?v=v67dYdwx2ps)
 - [Время создавать КОНТЕНТ, да?.](https://www.youtube.com/watch?v=Jmm50Q8_m4k)
 - [Этот ролик создал Искусственный Интеллект! #shorts](https://www.youtube.com/watch?v=h0os239mCoM)
 - [Язык программирования, который сложно забыть](https://www.youtube.com/watch?v=99LAQ5arlec)
-- [Метавселенные: будущее технологий или временный тренд?](https://www.youtube.com/watch?v=glX_i4k_9c4)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
