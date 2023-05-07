@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Графический интерфейс на PyQt5 [ 2 ] | Современный интерфейс, проигрыватель мультимедиа &lpar;mp3 player&rpar;](https://www.youtube.com/watch?v=W1AUalc0HHk)
 - [Анализ текста с помощью модуля TextBlob в Python | SynthWave](https://www.youtube.com/watch?v=Pk-LvJ1kanc)
 - [Графический интерфейс на PyQt5 [ 1 ] | Создание окна](https://www.youtube.com/watch?v=1tg1F2_ShLU)
 - [Python to exe #shorts](https://www.youtube.com/watch?v=v67dYdwx2ps)
 - [Время создавать КОНТЕНТ, да?.](https://www.youtube.com/watch?v=Jmm50Q8_m4k)
-- [Этот ролик создал Искусственный Интеллект! #shorts](https://www.youtube.com/watch?v=h0os239mCoM)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
