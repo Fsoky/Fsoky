@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Ачо стрим?](https://www.youtube.com/watch?v=i9dHr3bBkF0)
 - [Road to GameDev [ 1 ] | Путь к разработке игр на Unreal Engine 5](https://www.youtube.com/watch?v=t59FqzEbvVc)
 - [Отмечаем день рождения напитка &quot;Кока-Кола&quot;. press f добрый кола](https://www.youtube.com/watch?v=cWbhm6A6x8E)
 - [Nvidia представляет мощную нейросеть NeuralVDB для генерации 3D-графики в реальном времени #nvidia](https://www.youtube.com/watch?v=DmDuGJXR7L8)
 - [Кастомизация Windows Terminal | Оформление Windows 10 | Visual Studio Code](https://www.youtube.com/watch?v=AGn9daOLAos)
-- [Графический интерфейс на PyQt5 [ 2 ] | Современный интерфейс, проигрыватель мультимедиа &lpar;mp3 player&rpar;](https://www.youtube.com/watch?v=W1AUalc0HHk)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
