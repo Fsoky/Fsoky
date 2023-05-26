@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [КАК СТАТЬ СИГМОЙ??? &lpar;или уже неактуально?&rpar;](https://www.youtube.com/watch?v=r7C229smTCg)
 - [Пишем ОНЛАЙН Чат с графическим интерфейсом &lpar;пытаемся&rpar;](https://www.youtube.com/watch?v=3NYy5CpwVTc)
 - [Ачо стрим?](https://www.youtube.com/watch?v=i9dHr3bBkF0)
 - [Road to GameDev [ 1 ] | Путь к разработке игр на Unreal Engine 5](https://www.youtube.com/watch?v=t59FqzEbvVc)
 - [Отмечаем день рождения напитка &quot;Кока-Кола&quot;. press f добрый кола](https://www.youtube.com/watch?v=cWbhm6A6x8E)
-- [Nvidia представляет мощную нейросеть NeuralVDB для генерации 3D-графики в реальном времени #nvidia](https://www.youtube.com/watch?v=DmDuGJXR7L8)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
