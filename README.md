@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [КРИНЖ: мемы](https://www.youtube.com/watch?v=u71s43k8n5U)
 - [ПЬЯНЫЙ СТРИМ / ОБЩЕНИЕ, ИГРЫ, МУЗЫКА, ПРОГРАММИРОВАНИЕ, РУЛЕТКА](https://www.youtube.com/watch?v=4GFopad-43w)
 - [КАК СТАТЬ СИГМОЙ??? &lpar;или уже неактуально?&rpar;](https://www.youtube.com/watch?v=r7C229smTCg)
 - [Пишем ОНЛАЙН Чат с графическим интерфейсом &lpar;пытаемся&rpar;](https://www.youtube.com/watch?v=3NYy5CpwVTc)
 - [Ачо стрим?](https://www.youtube.com/watch?v=i9dHr3bBkF0)
-- [Road to GameDev [ 1 ] | Путь к разработке игр на Unreal Engine 5](https://www.youtube.com/watch?v=t59FqzEbvVc)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
