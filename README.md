@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Учу кодить и работать в фотошопе, а также жизни!](https://www.youtube.com/watch?v=0xMcYi4Fhw0)
+- [Простой летний стрим](https://www.youtube.com/watch?v=d3xFFvEXCEs)
 - [КРИНЖ: мемы](https://www.youtube.com/watch?v=u71s43k8n5U)
 - [ПЬЯНЫЙ СТРИМ / ОБЩЕНИЕ, ИГРЫ, МУЗЫКА, ПРОГРАММИРОВАНИЕ, РУЛЕТКА](https://www.youtube.com/watch?v=4GFopad-43w)
 - [КАК СТАТЬ СИГМОЙ??? &lpar;или уже неактуально?&rpar;](https://www.youtube.com/watch?v=r7C229smTCg)
-- [Пишем ОНЛАЙН Чат с графическим интерфейсом &lpar;пытаемся&rpar;](https://www.youtube.com/watch?v=3NYy5CpwVTc)
-- [Ачо стрим?](https://www.youtube.com/watch?v=i9dHr3bBkF0)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
