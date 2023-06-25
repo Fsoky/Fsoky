@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [стрём..](https://www.youtube.com/watch?v=RghvayZFjIA)
 - [Я стал&lpar;а&rpar; БИЗНЕСВУМЕН!](https://www.youtube.com/watch?v=RX8vP-HWscI)
 - [Учу кодить и работать в фотошопе, а также жизни!](https://www.youtube.com/watch?v=0xMcYi4Fhw0)
 - [Простой летний стрим](https://www.youtube.com/watch?v=d3xFFvEXCEs)
 - [КРИНЖ: мемы](https://www.youtube.com/watch?v=u71s43k8n5U)
-- [ПЬЯНЫЙ СТРИМ / ОБЩЕНИЕ, ИГРЫ, МУЗЫКА, ПРОГРАММИРОВАНИЕ, РУЛЕТКА](https://www.youtube.com/watch?v=4GFopad-43w)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
