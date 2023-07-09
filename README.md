@@ -2,8 +2,8 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
-- [Играем и программируем / Coding Escape &lpar;feat. @ITPROSTA &rpar;](https://www.youtube.com/watch?v=nmRHtKMOOxo)
 - [КАК ПРОЙТИ ЭТОТ УРОВЕНЬ?! / Coding Escape &lpar;feat. @ITPROSTA &rpar;](https://www.youtube.com/watch?v=7BElsCf-6rQ)
+- [Играем и программируем / Coding Escape &lpar;feat. @ITPROSTA &rpar;](https://www.youtube.com/watch?v=nmRHtKMOOxo)
 - [Пишем Телеграм БОТА на Python без СМС и Регистраций](https://www.youtube.com/watch?v=tnwH-oU-wBk)
 - [стрём..](https://www.youtube.com/watch?v=RghvayZFjIA)
 - [Я стал&lpar;а&rpar; БИЗНЕСВУМЕН!](https://www.youtube.com/watch?v=RX8vP-HWscI)
