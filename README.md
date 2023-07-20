@@ -2,10 +2,10 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [аЛО это стрим](https://www.youtube.com/watch?v=3CRexL85XUc)
 - [аЛО это стрим](https://www.youtube.com/watch?v=clFP6fFKpWY)
 - [КАК СТАТЬ ПРОГРАММИСТОМ? &lpar;feat. @ITPROSTA , подписчики&rpar;](https://www.youtube.com/watch?v=kZe2c54-1Q0)
 - [Делаем ПРЕВЬЮ для следующего ролика!](https://www.youtube.com/watch?v=T_bn7VHBXRI)
-- [аЛО это стрим](https://www.youtube.com/watch?v=3CRexL85XUc)
 - [как стать программистом #python](https://www.youtube.com/watch?v=dtmempgyIS4)
 <!-- YOUTUBE:END -->
 
