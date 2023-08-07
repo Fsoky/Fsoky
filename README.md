@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [😮 МОДАЛЬНЫЕ ОКНА в Discord #python #discord](https://www.youtube.com/watch?v=xZJLhlmvlLI)
+- [😮 МОДАЛЬНЫЕ ОКНА в Discord | Disnake, Python](https://www.youtube.com/watch?v=T1Wts9dEHVU)
 - [paranoia.](https://www.youtube.com/watch?v=hBF_1lYZnWk)
 - [аЛО это стрим](https://www.youtube.com/watch?v=3CRexL85XUc)
 - [аЛО это стрим](https://www.youtube.com/watch?v=clFP6fFKpWY)
-- [КАК СТАТЬ ПРОГРАММИСТОМ? &lpar;feat. @ITPROSTA , подписчики&rpar;](https://www.youtube.com/watch?v=kZe2c54-1Q0)
-- [Делаем ПРЕВЬЮ для следующего ролика!](https://www.youtube.com/watch?v=T_bn7VHBXRI)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
