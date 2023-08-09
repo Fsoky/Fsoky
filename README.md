@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [AI Voice Changer: голос тянки в реальном времени #ai](https://www.youtube.com/watch?v=IC1M_zP-UZc)
+- [AI Voice Changer: Превращение голоса аниме тянки с помощью ИИ в реальном времени](https://www.youtube.com/watch?v=Nfe_aQ8YNTc)
 - [😮 МОДАЛЬНЫЕ ОКНА в Discord #python #discord](https://www.youtube.com/watch?v=xZJLhlmvlLI)
 - [😮 МОДАЛЬНЫЕ ОКНА в Discord | Disnake, Python](https://www.youtube.com/watch?v=T1Wts9dEHVU)
 - [paranoia.](https://www.youtube.com/watch?v=hBF_1lYZnWk)
-- [аЛО это стрим](https://www.youtube.com/watch?v=3CRexL85XUc)
-- [аЛО это стрим](https://www.youtube.com/watch?v=clFP6fFKpWY)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
