@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Система ОПЛАТЫ в Телеграм | Проверка подписки на канал | Телеграм Бот на Python | AIOgram, Python](https://www.youtube.com/watch?v=mox_-ADCQaw)
+- [не понял](https://www.youtube.com/watch?v=vOGAwuLUq4s)
 - [CTPNM](https://www.youtube.com/watch?v=clFP6fFKpWY)
 - [CTPNM](https://www.youtube.com/watch?v=3qL1CKnA3iY)
 - [AI Voice Changer: голос тянки в реальном времени #ai](https://www.youtube.com/watch?v=IC1M_zP-UZc)
-- [AI Voice Changer: Превращение голоса аниме тянки с помощью ИИ в реальном времени](https://www.youtube.com/watch?v=Nfe_aQ8YNTc)
-- [😮 МОДАЛЬНЫЕ ОКНА в Discord #python #discord](https://www.youtube.com/watch?v=xZJLhlmvlLI)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
