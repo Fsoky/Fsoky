@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Как хакер может взломать ZIP-файл? #хакер](https://www.youtube.com/watch?v=bbTcVa-dx5Y)
+- [😱 Как ХАКЕРЫ взламывают ZIP-файлы? | Hashcat, JohnTheRipper, Python](https://www.youtube.com/watch?v=oIH9ZmORO0k)
 - [Система ОПЛАТЫ в Телеграм | Проверка подписки на канал | Телеграм Бот на Python | AIOgram, Python](https://www.youtube.com/watch?v=mox_-ADCQaw)
 - [не понял](https://www.youtube.com/watch?v=vOGAwuLUq4s)
 - [CTPNM](https://www.youtube.com/watch?v=clFP6fFKpWY)
-- [CTPNM](https://www.youtube.com/watch?v=3qL1CKnA3iY)
-- [AI Voice Changer: голос тянки в реальном времени #ai](https://www.youtube.com/watch?v=IC1M_zP-UZc)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
