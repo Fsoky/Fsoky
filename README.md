@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [СТРИМ / Решаем хацкерские задачи / PicoCTF](https://www.youtube.com/watch?v=3qL1CKnA3iY)
+- [Игра, чтобы стать хакером!](https://www.youtube.com/watch?v=FtUA5i4JhAA)
+- [Как новичку стать ХАЦКЕРОМ? | PicoCTF - Играй и Учись](https://www.youtube.com/watch?v=gZW-sDy-5lY)
 - [Как проверить подписку на телеграм канал / Телеграм Бот](https://www.youtube.com/watch?v=6AlUR8atwb4)
 - [Как хакер может взломать ZIP-файл? #хакер](https://www.youtube.com/watch?v=bbTcVa-dx5Y)
-- [😱 Как ХАКЕРЫ взламывают ZIP-файлы? | Hashcat, JohnTheRipper, Python](https://www.youtube.com/watch?v=oIH9ZmORO0k)
-- [Система ОПЛАТЫ в Телеграм | Проверка подписки на канал | Телеграм Бот на Python | AIOgram, Python](https://www.youtube.com/watch?v=mox_-ADCQaw)
-- [не понял](https://www.youtube.com/watch?v=vOGAwuLUq4s)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
