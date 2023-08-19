@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [о новом видео](https://www.youtube.com/watch?v=Uzn_MkaSilQ)
 - [Как новичку освоить терминал в Linux? | OverTheWire: Bandit](https://www.youtube.com/watch?v=0YGP_6mgQ7U)
 - [СТРИМ / Решаем хацкерские задачи / PicoCTF](https://www.youtube.com/watch?v=3qL1CKnA3iY)
 - [Игра, чтобы стать хакером!](https://www.youtube.com/watch?v=FtUA5i4JhAA)
 - [Как новичку стать ХАЦКЕРОМ? | PicoCTF - Играй и Учись](https://www.youtube.com/watch?v=gZW-sDy-5lY)
-- [Как проверить подписку на телеграм канал / Телеграм Бот](https://www.youtube.com/watch?v=6AlUR8atwb4)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
