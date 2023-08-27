@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Как меня СКАМИЛИ? | Истории из жизни | Как не попасть на СКАМ?](https://www.youtube.com/watch?v=oOoevi9Ezg4)
 - [Что такое KeyLogger?](https://www.youtube.com/watch?v=UhSNPfgU9mU)
 - [Что такое KeyLogger и как его пишут? | KeyLogger на Python](https://www.youtube.com/watch?v=tBz5GLipdaY)
 - [о новом видео](https://www.youtube.com/watch?v=Uzn_MkaSilQ)
 - [Как новичку освоить терминал в Linux? | OverTheWire: Bandit](https://www.youtube.com/watch?v=0YGP_6mgQ7U)
-- [СТРИМ / Решаем хацкерские задачи / PicoCTF](https://www.youtube.com/watch?v=3qL1CKnA3iY)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
