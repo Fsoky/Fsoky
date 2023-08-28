@@ -2,7 +2,7 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
-- [Как меня СКАМИЛИ? | Истории из жизни | Как не попасть на СКАМ?](https://www.youtube.com/watch?v=oOoevi9Ezg4)
+- [Время начинать - ПЛАН СКАМ](https://www.youtube.com/watch?v=oOoevi9Ezg4)
 - [Что такое KeyLogger?](https://www.youtube.com/watch?v=UhSNPfgU9mU)
 - [Что такое KeyLogger и как его пишут? | KeyLogger на Python](https://www.youtube.com/watch?v=tBz5GLipdaY)
 - [о новом видео](https://www.youtube.com/watch?v=Uzn_MkaSilQ)
