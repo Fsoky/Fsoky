@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [математика в python #юмор #питон #программирование #математика #python](https://www.youtube.com/watch?v=PWeFx2IpIbY)
 - [59 6f 75 54 75 62 65](https://www.youtube.com/watch?v=govs4NfxvB4)
 - [2+2=22 но это не джава скрипт. мемный стрим](https://www.youtube.com/watch?v=9mh24oBUnmo)
 - [2+2=22 но это не джава скрипт. мемный стрим](https://www.youtube.com/watch?v=EgV9NJTHVWU)
 - [Хватит слушать неудачников, начни свой путь! #мотивация #жизнь #shorts](https://www.youtube.com/watch?v=OYIfDmkprpc)
-- [Как меня пытался ЗАСКАМИТЬ школьник в WhatsApp](https://www.youtube.com/watch?v=oOoevi9Ezg4)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
