@@ -2,11 +2,11 @@
 
 ### Последние видео
 <!-- YOUTUBE:START -->
+- [Как сделать пагинацию в AIOgram Python?](https://www.youtube.com/watch?v=uRqTmGZkZEA)
 - [Переиграл и уничтожил 😂 #shorts](https://www.youtube.com/watch?v=wa73inwVTcY)
 - [Python + Arduino | Голосовое управление #shorts #python #arduino](https://www.youtube.com/watch?v=gUFfgR0_OtE)
 - [Пару советов о том как стать программистом #shorts](https://www.youtube.com/watch?v=ZEIaR-wH-EQ)
 - [Типичный урок по питону 😐 #shorts #python](https://www.youtube.com/watch?v=dKEUcxFihPE)
-- [математика в python #юмор #питон #программирование #математика #python](https://www.youtube.com/watch?v=PWeFx2IpIbY)
 <!-- YOUTUBE:END -->
 
 ### Присоединяйся к нам
