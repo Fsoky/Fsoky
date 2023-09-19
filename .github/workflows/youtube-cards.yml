@@ -13,5 +13,3 @@ jobs:
         with:
           channel_id: UCeiC2G8vcz6tBmvVo8ydMgQ
           comment_tag_name: YOUTUBE-CARDS
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          show_duration: true
