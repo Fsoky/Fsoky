@@ -49,14 +49,6 @@ Hello, my dear friends! Меня зовут Данииииил, мне 19 лет
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsoky&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsoky&show_icons=true&theme=dracula)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-
-<details>
- <summary><h3>👨‍💻 Fsoky's Coding Journey</h3></summary>
-   12345
-
-[youtube]: https://youtube.com/fsoky
