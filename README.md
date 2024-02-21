@@ -1,4 +1,6 @@
-# 🥑 Fsoky
+<p align="center"><img src="https://i.ibb.co.com/zfq90v3/fsoky-banner.png"></img></p>
+
+# 🍊 Fsoky
 
 **`Контент-мейкер`**
 
