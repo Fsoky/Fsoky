@@ -48,8 +48,7 @@
 
 #
 
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fsoky&show_icons=true&theme=dracula)
-
+<p align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fsoky&theme=tokyonight">
+</p>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=dracula&border_radius=4.5) -->
