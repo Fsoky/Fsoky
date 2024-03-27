@@ -5,9 +5,9 @@
 
 <p align="left">
    Hello, my dear friends! Меня зовут Данииииил, мне 19 летиков, я введу этот канал по программированию, зависаю в FL Studio и делаю свежевыжатый сок в Blender. Я занимаюсь любимым делом, а вы? Нет..? Тогда прямо сейчас бери карандаши - рисуй! Тебе нравиться писать стихи - хватайся за ручку с глянцевыми, черными чернилами и сочиняй!
-   
+
    Занимайся любимым делом, развивайся и веселись. У тебя все получится, я в тебя верю!
-   <img align="right" width="128" height="128" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE0NTEzNzAsIm5iZiI6MTcxMTQ1MTA3MCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI2VDExMDQzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmNTlmNGMxNjY0YjljOWYxN2JmZjdiY2NkOWUzNDRhN2ZkMmY3MmYwODQ1YWEyMWEwZmVjMDg1Yzk3YTI3YTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.t9n51-A-8ckeBv1rXSgniDgP8xgPA_0x3ar2hdLStLc">
+   <img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 </p>
 
    <p align="left">
@@ -21,7 +21,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Fsoky?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="64" height="64">
