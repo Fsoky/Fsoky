@@ -1,12 +1,15 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1400" height="500"></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=F78A13&center=true&random=false&width=1000&height=100&lines=Fsoky" alt="Typing SVG" /></a>
-**`Контент-мейкер`**
+**`Контент-мейкер`** **`Python Backend Developer`**
 
 <p align="left">
-   Hello, my dear friends! Меня зовут Данииииил, мне 19 летиков, я введу этот канал по программированию, зависаю в FL Studio и делаю свежевыжатый сок в Blender. Я занимаюсь любимым делом, а вы? Нет..? Тогда прямо сейчас бери карандаши - рисуй! Тебе нравиться писать стихи - хватайся за ручку с глянцевыми, черными чернилами и сочиняй!
+WASUP, everyone.
+Я Даня, мне 21 летиков. Занимаюсь программированием уже больше 5 лет и столько же веду <a href="https://www.youtube.com/c/Фсоки?sub_confirmation=1">этот канал</a>. <br/>
+Я - разработчик мини-приложений в телеграм, в этой сфере уже более года. Иногда зависаю в FL Studio, иногда нравится посидеть над монтажом или пофотошопить превьюшку.
 
-   Занимайся любимым делом, развивайся и веселись. У тебя все получится, я в тебя верю!
+У меня есть любимая и прекрасная жена, цели, мечты и планы на будущее.
+Гори и не сгорай ~
    <img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 </p>
 
